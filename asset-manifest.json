@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/script-generator/static/js/main.6ccc7fda.js",
+    "main.js": "/script-generator/static/js/main.04540b07.js",
     "index.html": "/script-generator/index.html",
-    "main.6ccc7fda.js.map": "/script-generator/static/js/main.6ccc7fda.js.map"
+    "main.04540b07.js.map": "/script-generator/static/js/main.04540b07.js.map"
   },
   "entrypoints": [
-    "static/js/main.6ccc7fda.js"
+    "static/js/main.04540b07.js"
   ]
 }
