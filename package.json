@@ -1,0 +1,9 @@
+{
+  "name": "script-generator",
+  "homepage": "https://你的github用户名.github.io/script-generator",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
