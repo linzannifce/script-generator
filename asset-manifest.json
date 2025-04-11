@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/script-generator/static/js/main.6ccc7fda.js",
+    "index.html": "/script-generator/index.html",
+    "main.6ccc7fda.js.map": "/script-generator/static/js/main.6ccc7fda.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6ccc7fda.js"
+  ]
+}
